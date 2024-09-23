@@ -26,12 +26,12 @@ For advanced users, please use the [test](https://github.com/engageub/InternetIn
 | [Grass](https://t.co/hpl30lW4cP) | :heavy_check_mark:	  | :x: |No limit|1| Crypto |
 | [BearShare](https://app.bearshare.app/register?ref=770048aacaab7ecf1ca1c97492de831d17a3ab559d4a1f8b735) | :heavy_check_mark:	  | :x: |No limit|1| Crypto |
 | [Adnade](https://t.co/KthcbzPa08)  | :heavy_check_mark:	  | :heavy_check_mark: |No limit|1|Crypto, Paypal| 
-| [EarnFM](https://t.co/SX6ggtooDW)  | :heavy_check_mark:	  | :heavy_check_mark: |No limit|1| Crypto, Paypal, Giftcard|
+| [EarnFM 1](https://t.co/SX6ggtooDW)  | :heavy_check_mark:	  | :heavy_check_mark: |No limit|1| Crypto, Paypal, Giftcard|
 | [Peer2Profit](https://t.me/peer2profit_app_bot?start=163956712261b9cf129932a)  | :heavy_check_mark:	  | :heavy_check_mark:	 | No limit|No limit| Crypto|
-| [ProxyRack](https://peer.proxyrack.com/ref/tqkgvytmszxtxafo30miq2dbeeauuopmmup0eklx)  | :heavy_check_mark:	  | :heavy_check_mark: |500|1| Paypal|
-| [Repocket](https://link.repocket.co/pV1G)  | :heavy_check_mark:	  | :heavy_check_mark: |No limit|2| Paypal, Wise, Crypto|
-| [Traffmonetizer](https://traffmonetizer.com/?aff=4211) | :heavy_check_mark:	  | :heavy_check_mark: |No limit|No limit| Crypto|
-| [ProxyLite](https://proxylite.ru/?r=AXLDPNX5) | :heavy_check_mark:	  | :heavy_check_mark: |No limit|1| Crypto|
+| [ProxyRack 1](https://peer.proxyrack.com/ref/tqkgvytmszxtxafo30miq2dbeeauuopmmup0eklx)  | :heavy_check_mark:	  | :heavy_check_mark: |500|1| Paypal|
+| [Repocket 1](https://link.repocket.co/pV1G)  | :heavy_check_mark:	  | :heavy_check_mark: |No limit|2| Paypal, Wise, Crypto|
+| [Traffmonetizer 1](https://traffmonetizer.com/?aff=4211) | :heavy_check_mark:	  | :heavy_check_mark: |No limit|No limit| Crypto|
+| [ProxyLite 1 ](https://proxylite.ru/?r=AXLDPNX5) | :heavy_check_mark:	  | :heavy_check_mark: |No limit|1| Crypto|
 | [BitPing](https://app.bitping.com/?r=drPpp600) | :heavy_check_mark:	  | :heavy_check_mark: |No limit|1| Crypto|
 | [Mysterium](https://mystnodes.co/?referral_code=xejcELAJ368e6PYnB30VHAnNKn30Aa6wKygVZdam) | :heavy_check_mark:	  | :heavy_check_mark: |No limit|1| Crypto|
 | [Bytelixir](https://t.co/MNaVYiALR5) | :heavy_check_mark:	  | :heavy_check_mark: |No limit|1| Crypto |
